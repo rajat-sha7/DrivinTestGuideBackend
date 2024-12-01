@@ -1,0 +1,1218 @@
+[
+  {
+    "questionText": "Amber flashing lights can be mounted on a vehicle if:",
+    "class": 1,
+    "answerOptions": [
+      { "answerText": "It is a disabled vehicle.", "isCorrect": false },
+      { "answerText": "It is a commercial vehicle.", "isCorrect": false },
+      { "answerText": "It  iiiis a police car.", "isCorrect": false },
+      {
+        "answerText": "You have a Commercial Vehicle Safety & Enforcement permit from ICBC.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Anti-lock braking systems (ABS) are:",
+    "class": 1,
+    "answerOptions": [
+      {
+        "answerText": "Designed to allow you to drive faster.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Designed to help prevent wheel lock-up caused by over-braking on slippery road surfaces.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Designed to allow you to brake faster than conventional brakes.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Designed to make braking distance shorter.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Idling for longer than five minutes can:",
+    "class": 1,
+    "answerOptions": [
+      { "answerText": "Waste fuel.", "isCorrect": false },
+      { "answerText": "Increase Emissions.", "isCorrect": false },
+      { "answerText": "Clog the fuel injector.", "isCorrect": false },
+      { "answerText": "All of the above.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "In ideal conditions, a truck that is 17.6 metres long should be at least how many seconds behind the vehicle it is following?",
+    "class": 1,
+    "answerOptions": [
+      { "answerText": "Three seconds.", "isCorrect": false },
+      { "answerText": "Four seconds.", "isCorrect": false },
+      { "answerText": "Five seconds.", "isCorrect": true },
+      { "answerText": "Six seconds.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "In order to let passengers off your vehicle on the highway, you must:",
+    "class": 1,
+    "answerOptions": [
+      {
+        "answerText": "Leave at least five feet of road on the left side of your vehicle so traffic may pass.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Leave at least three metres of road on the left side of your vehicle so traffic may pass.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Leave at least fifteen feet of road on the left side of your vehicle so traffic may pass.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Leave at least five metres of road on the left side of your vehicle so traffic may pass.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Oversize load permits may also require you to:",
+    "class": 1,
+    "answerOptions": [
+      {
+        "answerText": "Have a pilot car with you when you transport the load.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Travel on a specific day of the week.",
+        "isCorrect": false
+      },
+      { "answerText": "Travel on a specific route.", "isCorrect": false },
+      { "answerText": "All of the above.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Peak torque is:",
+    "class": 1,
+    "answerOptions": [
+      {
+        "answerText": "Found at a higher engine speed than peak horsepower.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Found at a lower engine speed than peak horsepower.",
+        "isCorrect": true
+      },
+      { "answerText": "Used to develop speed.", "isCorrect": false },
+      {
+        "answerText": "The level of torque at which you should be operating your vehicle.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "Side view mirrors may extend up to ____________ centimeters beyond the side of the vehicle without being considered in the overall width of the vehicle.",
+    "class": 1,
+    "answerOptions": [
+      { "answerText": "10.", "isCorrect": false },
+      { "answerText": "15.", "isCorrect": false },
+      { "answerText": "25.", "isCorrect": false },
+      { "answerText": "20.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": " The chosen cargo securement system must be able to withstand:",
+    "class": 1,
+    "answerOptions": [
+      {
+        "answerText": "0.5 g deceleration in a forward direction.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "0.8g deceleration in a rearward direction..",
+        "isCorrect": false
+      },
+      {
+        "answerText": "0.5g acceleration in a rearward direction and either sideways direction.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "A downward force equal to at least 15% of the weight of the cargo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "The total safe working load of all the tie-downs you use must:",
+    "class": 1,
+    "answerOptions": [
+      {
+        "answerText": "Be close to the weight of your load..",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Meet or exceed the weight of your load.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Be at least 50% of the weight of your load.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Must greatly exceed the weight of your load.",
+        "isCorrect": false
+      }
+    ]
+  },
+
+  {
+    "questionText": " A “turn out” is:",
+    "class": 1,
+    "answerOptions": [
+      { "answerText": "A place where the road widens.", "isCorrect": false },
+      {
+        "answerText": "A place to pull off the road so that other vehicles may pass.",
+        "isCorrect": true
+      },
+      { "answerText": "Another name for a runaway lane.", "isCorrect": false },
+      { "answerText": "A wide seventies-style collar.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " A “turn out” is:",
+    "class": 2,
+    "answerOptions": [
+      { "answerText": "A place where the road widens.", "isCorrect": false },
+      {
+        "answerText": "A place to pull off the road so that other vehicles may pass.",
+        "isCorrect": true
+      },
+      { "answerText": "Another name for a runaway lane.", "isCorrect": false },
+      { "answerText": "A wide seventies-style collar.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " A person who has a Class 1 driver’s license may drive::",
+    "class": 2,
+    "answerOptions": [
+      { "answerText": "A taxi.", "isCorrect": false },
+      {
+        "answerText": "Any vehicle with three or more axles.",
+        "isCorrect": false
+      },
+      { "answerText": "A motorcycle.", "isCorrect": false },
+      { "answerText": "a. and b. are correct.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "After working 120 hours in a 14-day cycle, drivers must take ____________ hours of off-duty time before working 70 hours of on-duty time.",
+    "class": 2,
+    "answerOptions": [
+      { "answerText": "8", "isCorrect": false },
+      { "answerText": "16", "isCorrect": false },
+      { "answerText": "24", "isCorrect": true },
+      { "answerText": "36", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Drivers on a 7-day cycle must not drive after ____________ hours of on-duty time in 7 consecutive days.",
+    "class": 2,
+    "answerOptions": [
+      { "answerText": "40", "isCorrect": false },
+      { "answerText": "50", "isCorrect": false },
+      { "answerText": "60", "isCorrect": false },
+      { "answerText": "70", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "If you attempt to drive faster than the traffic flow:",
+    "class": 2,
+    "answerOptions": [
+      {
+        "answerText": "You may not be able to maintain a safe following distance.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "You will be required to make more lane changes, and may more easily make a mistake.",
+        "isCorrect": false
+      },
+      { "answerText": "You will tire more quickly.", "isCorrect": false },
+      { "answerText": "All of the above. ", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": " If you make a full brake application during an emergency stop with an automatic front wheel limiting system, how much air pressure is directed to the front brakes?",
+    "class": 2,
+    "answerOptions": [
+      { "answerText": "60 psi", "isCorrect": false },
+      { "answerText": "70 psi", "isCorrect": false },
+      { "answerText": "40 psi", "isCorrect": false },
+      {
+        "answerText": "Equal pressure to steering axle and drive axle brakes.. ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "In order to take passengers on or let them off your vehicle on the highway, you must park in a place that allows other drivers to see your vehicle from a distance of at least ____________ in front and behind.",
+    "class": 2,
+    "answerOptions": [
+      { "answerText": "30 metres.", "isCorrect": false },
+      { "answerText": "40 metres.", "isCorrect": false },
+      { "answerText": "50 metres.", "isCorrect": false },
+      { "answerText": "85 metres. ", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Passenger vehicles with a capacity of more than 12 persons should have:",
+    "class": 2,
+    "answerOptions": [
+      {
+        "answerText": "Lights that illuminate the passenger aisle behind the driver.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Inside lights that should be left on all the time.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Inside lights that should be on between sunset and sunrise.",
+        "isCorrect": false
+      },
+      { "answerText": "a. and c. are correct. ", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "The Motor Vehicle Act Regulations specify that all commercial vehicles that fall under the National Safety Code must:",
+    "class": 2,
+    "answerOptions": [
+      {
+        "answerText": "Be inspected before they are used each day (pre-trip inspections).",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Be inspected at the end of the final trip of each day (post-trip inspections.).",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Be inspected both before and after they are used each day.",
+        "isCorrect": false
+      },
+      { "answerText": "Be inspected once a week. ", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " When pulling out from an alley, you must:",
+    "class": 2,
+    "answerOptions": [
+      {
+        "answerText": "Stop before you drive across the sidewalk area.",
+        "isCorrect": false
+      },
+      { "answerText": "Yield to pedestrians.", "isCorrect": false },
+      {
+        "answerText": "Yield to traffic on the road you are entering.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above.. ", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "A mixture of different-sized tires can:",
+    "class": 3,
+    "answerOptions": [
+      {
+        "answerText": "Be dangerous if used on the same axle. .",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Be dangerous if used on different axles.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Never be used on the same vehicle.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Always be used on the same vehicle. ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "An aggregate load must be covered with a tarp if:",
+    "class": 3,
+    "answerOptions": [
+      {
+        "answerText": "It is being carried by a dump truck.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "It is likely to bounce, blow or drop from the vehicle as it is moving.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "It is in a vehicle which will be parked for several hours.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "It is in a vehicle which will be traveling on a freeway.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "How much pressure should you apply to the foot valve when measuring slack adjustment using the applied stroke method?",
+    "class": 3,
+    "answerOptions": [
+      { "answerText": "40 psi", "isCorrect": false },
+      { "answerText": "150 psi", "isCorrect": false },
+      { "answerText": "300 psi", "isCorrect": false },
+      { "answerText": "90 to 100 psi", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "If you are required to keep a daily log, what must you have in your possession?",
+    "class": 3,
+    "answerOptions": [
+      {
+        "answerText": "A log that is updated to your last change in duty status.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Copies of your daily log for your work cycle.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Any supporting documents you have been issued during your trip.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Loads must not extend more than _________________ beyond the front bumper of the vehicle.",
+    "class": 3,
+    "answerOptions": [
+      { "answerText": ".5 metres.", "isCorrect": false },
+      { "answerText": "1 metre.", "isCorrect": true },
+      { "answerText": "1.5 metres.", "isCorrect": false },
+      { "answerText": "2 metres.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "The turning radius for a vehicle is:",
+    "class": 3,
+    "answerOptions": [
+      {
+        "answerText": "The amount of room needed for a vehicle to make a turn.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Different for the front and rear tires.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Dependant on the size of the vehicle.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "The width of most loads should not exceed:",
+    "class": 3,
+    "answerOptions": [
+      { "answerText": "1.5 metres.", "isCorrect": false },
+      { "answerText": "2 metres.", "isCorrect": false },
+      { "answerText": "2.6 metres.", "isCorrect": true },
+      { "answerText": "3.2 metres.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Using light brake pressure on an icy road will:",
+    "class": 3,
+    "answerOptions": [
+      {
+        "answerText": "Prevent the wheels from locking up.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Help you keep control of the vehicle.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Prevent the vehicle from skidding.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above..", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": " When parking a truck, you should:",
+    "class": 3,
+    "answerOptions": [
+      {
+        "answerText": "Place the transmission in the lowest forward or reverse gear or park.",
+        "isCorrect": false
+      },
+      { "answerText": "Apply the parking brakes.", "isCorrect": false },
+      {
+        "answerText": "turn your wheels towards the center of the road if you are on an upgrade.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Why should you avoid compounding the air brakes?",
+    "class": 3,
+    "answerOptions": [
+      {
+        "answerText": "You can cause damage to the slack adjusters and s-cams.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "You can cause damage to the brake chamber mounting bolts, brake shoe rollers, shoes and brake drums.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "You will risk damage by putting too much force on the brake components.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above.", "isCorrect": true }
+    ]
+  },
+
+  {
+    "questionText": "Drivers on a 7-day cycle must not drive after ____________ hours of on-duty time in 7 consecutive days.",
+    "class": 4,
+    "answerOptions": [
+      { "answerText": "70.", "isCorrect": true },
+      { "answerText": "50.", "isCorrect": false },
+      { "answerText": "40.", "isCorrect": false },
+      { "answerText": "60.", "isCorrect": false }
+    ]
+  },
+
+  {
+    "questionText": "Drivers on a 7-day cycle must not drive after ____________ hours of on-duty time in 7 consecutive days.",
+    "class": 4,
+    "answerOptions": [
+      {
+        "answerText": "Those who are employed doing inner-city delivery..",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Bus and emergency vehicle drivers..",
+        "isCorrect": false
+      },
+      { "answerText": "Non-existent..", "isCorrect": false },
+      { "answerText": "a. and b. are correct.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": " If you are sharing a vehicle with another driver during a trip, and you disagree about which defects are to be reported, you should:",
+    "class": 4,
+    "answerOptions": [
+      {
+        "answerText": "Defer to the driver with the most seniority.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Make a note of the disagreement, and provide the signature of both drivers.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Repair the defect in question, regardless of its impact on safety.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "If you want to tow a trailer that weighs more than 4600 kg, and neither the trailer nor your towing vehicle has air brakes, which of the following do you need?",
+    "class": 4,
+    "answerOptions": [
+      {
+        "answerText": "A Class 1, 2 or 3 driver's licence.",
+        "isCorrect": false
+      },
+      { "answerText": "A Class 4 driver's licence.", "isCorrect": false },
+      {
+        "answerText": "A Class 4 or 5 driver's licence with a heavy trailer (code 20) endorsement.",
+        "isCorrect": false
+      },
+      { "answerText": "Both a. and c. are correct.", "isCorrect": true }
+    ]
+  },
+
+  {
+    "questionText": "Steering control may be reduced when:",
+    "class": 4,
+    "answerOptions": [
+      { "answerText": "Tires are overinflated.", "isCorrect": false },
+      {
+        "answerText": "The amount of contact between the tire and the road surface is reduced..",
+        "isCorrect": false
+      },
+      { "answerText": "Tires are underinflated.", "isCorrect": false },
+      { "answerText": "All of the above. ", "isCorrect": true }
+    ]
+  },
+
+  {
+    "questionText": "To avoid fires, you should:",
+    "class": 4,
+    "answerOptions": [
+      {
+        "answerText": "Never start a vehicle with a fuel leak.",
+        "isCorrect": false
+      },
+      { "answerText": "Maintain proper tire pressure.", "isCorrect": false },
+      {
+        "answerText": "Make sure your vehicle's brakes are fully released while the vehicle is moving.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above. ", "isCorrect": true }
+    ]
+  },
+
+  {
+    "questionText": "What items related to the vehicle should a driver check periodically during a trip?",
+    "class": 4,
+    "answerOptions": [
+      { "answerText": "Wheels, tires, and lights.", "isCorrect": false },
+      { "answerText": "Brakes and hubs.", "isCorrect": false },
+      { "answerText": "Trailer coupling and cargo.", "isCorrect": false },
+      { "answerText": "All of the above. ", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "What items related to the vehicle should a driver check periodically during a trip?",
+    "class": 4,
+    "answerOptions": [
+      { "answerText": "15.", "isCorrect": false },
+      { "answerText": "18.", "isCorrect": true },
+      { "answerText": "25.", "isCorrect": false },
+      { "answerText": "30. ", "isCorrect": false }
+    ]
+  },
+
+  {
+    "questionText": "When refueling, you should:",
+    "class": 4,
+    "answerOptions": [
+      { "answerText": "Keep the radio on..", "isCorrect": false },
+      { "answerText": "Keep the vehicle running..", "isCorrect": false },
+      {
+        "answerText": "Keep the nozzle of the fuel hose in contact with the intake to the fuel tank..",
+        "isCorrect": true
+      },
+      { "answerText": "Smoke a cigarette.. ", "isCorrect": false }
+    ]
+  },
+
+  {
+    "questionText": " Your danger zone increases when:",
+    "class": 4,
+    "answerOptions": [
+      { "answerText": "You speed increases.", "isCorrect": false },
+      { "answerText": "Your vehicle is heavy.", "isCorrect": false },
+      { "answerText": "It is raining.", "isCorrect": false },
+      { "answerText": "All of the above. ", "isCorrect": true }
+    ]
+  },
+
+  {
+    "questionText": "A U-turn is not permitted: ",
+    "class": 5,
+    "answerOptions": [
+      { "answerText": "On a curve.", "isCorrect": false },
+      { "answerText": "Near or at the crest of a hill.", "isCorrect": false },
+      { "answerText": "Where a sign prohibits a U-turn.", "isCorrect": false },
+      { "answerText": "All of the above.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "At what minimum distance away from railroad tracks should you stop? ",
+    "class": 5,
+    "answerOptions": [
+      { "answerText": "6 metres from the nearest rail.", "isCorrect": false },
+      { "answerText": "10 metres from the nearest rail.", "isCorrect": false },
+      { "answerText": "5 metres from the nearest rail.", "isCorrect": true },
+      { "answerText": "3 metres from the nearest rail.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "If a vehicle ahead of you is stopped at a crosswalk on a multi-lane road you should: ",
+    "class": 5,
+    "answerOptions": [
+      {
+        "answerText": "Pass the vehicle on the right only.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Pass the vehicle on the left only.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Stop before passing this vehicle and make sure there are no pedestrians in the crosswalk.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Honk to encourage the vehicle's driver to get going.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "In an emergency situation where you have an Anti-lock braking system (ABS) on your car, how do you stop? ",
+    "class": 5,
+    "answerOptions": [
+      {
+        "answerText": "Pump the brakes while applying light pressure.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Press hard, quickly release and press hard again.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Apply continuous, firm, hard pressure until the vehicle stops.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Press lightly and let the computerized sensors take over.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": " The best reason for not using a cellphone while driving is: ",
+    "class": 5,
+    "answerOptions": [
+      {
+        "answerText": "Your ability to see and hear hazards may be reduced.",
+        "isCorrect": true
+      },
+      { "answerText": "Your car battery may wear down.", "isCorrect": false },
+      { "answerText": "The reception may not be clear.", "isCorrect": false },
+      {
+        "answerText": "It may be difficult to hold on to the phone while driving.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": " What does the broken line marking on a highway mean? ",
+    "class": 5,
+    "answerOptions": [
+      { "answerText": "Pass at any time", "isCorrect": false },
+      { "answerText": "Pass if the way is clear", "isCorrect": true },
+      { "answerText": "Never pass", "isCorrect": false },
+      { "answerText": "Pass only during daylight hours", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "When approaching a stop sign where there is no stop line, sidewalk or crosswalk you should: ",
+    "class": 5,
+    "answerOptions": [
+      {
+        "answerText": "Stop 3 metres back from the intersection and inch up slowly.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Slow down and proceed with caution.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Stop just before you enter the intersection.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Stop only if pedestrians are waiting to cross.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "When driving with children in the car it is a good idea to: ",
+    "class": 5,
+    "answerOptions": [
+      {
+        "answerText": "Tell them the rules of the car before you start the trip.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Tell them to keep quiet throughout the drive, or else.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Give them activities if the drive is long.",
+        "isCorrect": false
+      },
+      { "answerText": "a. and c. are correct.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "How should you signal if you wish to turn left? ",
+    "class": 5,
+    "answerOptions": [
+      {
+        "answerText": "Stick your left arm out at shoulder height and bend your forearm to make a 90 degree angle",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Stick your left arm straight out at shoulder height",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Stick your right arm out at shoulder height",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Stick your right arm out at shoulder height ,  but bend your forearm down to make a 90 degree angle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "How should you signal if you wish to turn left? ",
+    "class": 6,
+    "answerOptions": [
+      {
+        "answerText": "Stick your left arm out at shoulder height and bend your forearm to make a 90 degree angle",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Stick your left arm straight out at shoulder height",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Stick your right arm out at shoulder height",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Stick your right arm out at shoulder height ,  but bend your forearm down to make a 90 degree angle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "If you have to go over an obstacle, you should aim to strike the obstacle: ",
+    "class": 6,
+    "answerOptions": [
+      { "answerText": "At a 45 degree angle", "isCorrect": false },
+      { "answerText": "At a 90 degree angle ", "isCorrect": true },
+      {
+        "answerText": "Off to the side of the object and toward the shoulder",
+        "isCorrect": false
+      },
+      { "answerText": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "If you have to ride off the pavement in an emergency, what should you do for a safe transition? ",
+    "class": 6,
+    "answerOptions": [
+      {
+        "answerText": "Slow down and steer before leaving the paved surface.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Release the brakes before leaving the pavement.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Brake gradually favouring the rear brake.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above ", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": " If you maintain appropriate speed: ",
+    "class": 6,
+    "answerOptions": [
+      {
+        "answerText": "You are going the speed limit or slower if conditions require it ",
+        "isCorrect": true
+      },
+      {
+        "answerText": "You are going a steady speed appropriate for riding conditions",
+        "isCorrect": false
+      },
+      { "answerText": "You can see without goggles", "isCorrect": false },
+      { "answerText": "All of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " It is most important to flash your brake light when: ",
+    "class": 6,
+    "answerOptions": [
+      {
+        "answerText": "Someone is following you too closely",
+        "isCorrect": false
+      },
+      { "answerText": "You will be slowing suddenly ", "isCorrect": true },
+      { "answerText": "There is a stop sign ahead", "isCorrect": false },
+      { "answerText": "Your signals are not working", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " Road conditions that could affect your riding include: ",
+    "class": 6,
+    "answerOptions": [
+      { "answerText": "Storm drains and railroad tracks", "isCorrect": false },
+      {
+        "answerText": "Slippery road markings and tar patches",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Wet leaves, debris or gravel and wet or icy roads",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "When you are behind a stopped school bus with alternating flashing lights on the top of, you should: ",
+    "class": 6,
+    "answerOptions": [
+      {
+        "answerText": "Slow down and then pass when clear",
+        "isCorrect": false
+      },
+      { "answerText": "Stop ", "isCorrect": true },
+      { "answerText": "Pass slowly on the left", "isCorrect": false },
+      { "answerText": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " Which of the following will impair your riding?",
+    "class": 6,
+    "answerOptions": [
+      { "answerText": "One beer", "isCorrect": false },
+      { "answerText": "Cold medicine", "isCorrect": false },
+      {
+        "answerText": "Having a fight with a friend right before you ride",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above ", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": " Why should you avoid buying a used helmet? ",
+    "class": 6,
+    "answerOptions": [
+      {
+        "answerText": "The padding gets better every year",
+        "isCorrect": false
+      },
+      {
+        "answerText": "It won’t look as good as a new helmet",
+        "isCorrect": false
+      },
+      { "answerText": "A used helmet may be damaged", "isCorrect": true },
+      { "answerText": "None of the above", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " Why should you avoid following too near a large vehicle? ",
+    "class": 6,
+    "answerOptions": [
+      { "answerText": "Truckers don't like riders", "isCorrect": false },
+      { "answerText": "It's illegal", "isCorrect": false },
+      { "answerText": "Turbulence ", "isCorrect": false },
+      { "answerText": "None of the above", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "A quick release valve may be used with spring brakes to: ",
+    "class": 7,
+    "answerOptions": [
+      {
+        "answerText": "Allow faster application of spring brakes",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Allow faster release of spring brakes",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Allow automatic application of spring brakes",
+        "isCorrect": false
+      },
+      { "answerText": "Both a. and b.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How do you know you are turning the adjusting bolt in the correct direction when adjusting a manual slack adjuster? ",
+    "class": 7,
+    "answerOptions": [
+      { "answerText": "The slack adjuster doesn't move.", "isCorrect": false },
+      {
+        "answerText": "The slack adjuster will pull the pushrod out of the chamber.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "The cam rotates in the same direction as if the brakes were being applied.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "The slack adjuster pushes the pushrod into the chamber.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": "If you are adjusting an automatic slack adjuster that has a square head adjusting bolt, you must rotate the adjusting bolt in which direction? ",
+    "class": 7,
+    "answerOptions": [
+      { "answerText": "Clockwise.", "isCorrect": false },
+      { "answerText": "Counter-clockwise.", "isCorrect": true },
+      { "answerText": "Up.", "isCorrect": false },
+      { "answerText": "Down.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "The low-pressure warning device must operate when the main reservoir pressure drops to approximately: ",
+    "class": 7,
+    "answerOptions": [
+      { "answerText": "20 to 40 PSI", "isCorrect": false },
+      { "answerText": "60 to 65 PSI", "isCorrect": true },
+      { "answerText": "80 to 85 PSI", "isCorrect": false },
+      { "answerText": "105 to 125 PSI", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " The main purpose of a hand valve is: ",
+    "class": 7,
+    "answerOptions": [
+      {
+        "answerText": "To control independently the amount of air to the trailer brakes.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "To control the amount of air application to the tractor brakes.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "To use as an emergency brake if the foot valve fails.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "To control the amount of air application to the treadle valve.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": " Water cooled brakes are used: ",
+    "class": 7,
+    "answerOptions": [
+      {
+        "answerText": "To control brake drum overheating (prevent brake fade).",
+        "isCorrect": false
+      },
+      {
+        "answerText": "To help extremely large vehicles stop safely.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "To avoid any cracks in the brake drum.",
+        "isCorrect": false
+      },
+      { "answerText": "All of the above. ", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": " What type of air brake endorsement must you have to drive on industrial roads? ",
+    "class": 7,
+    "answerOptions": [
+      { "answerText": "Off-highway.", "isCorrect": false },
+      { "answerText": "On-highway.", "isCorrect": false },
+      { "answerText": "Industrial.", "isCorrect": false },
+      { "answerText": "a. and c. are correct.", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "What would be the most likely cause of a safety valve “blowing off”?",
+    "class": 7,
+    "answerOptions": [
+      { "answerText": "Governor out of adjustment", "isCorrect": false },
+      {
+        "answerText": "Exhaust or inlet valves stuck open",
+        "isCorrect": false
+      },
+      { "answerText": "Defective governor ", "isCorrect": true },
+      { "answerText": "Defective inlet valve", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "When should a driver adjust automatic slack adjusters? ",
+    "class": 7,
+    "answerOptions": [
+      {
+        "answerText": "When these are found to be out-of-adjustment.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Every day during the pre-trip inspection.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Only when stuck in Thunderbay, ON or Gatineau, QC.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Only as an emergency procedure that will allow the driver to get to a shop to have it fixed by a qualified technician.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Why is it so critical to check slack adjustments? ",
+    "class": 7,
+    "answerOptions": [
+      {
+        "answerText": "To ensure the vehicle can stop safely.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "To ensure the foot valve is in the correct position.",
+        "isCorrect": false
+      },
+      { "answerText": "To measure the push rod travel.", "isCorrect": false },
+      { "answerText": "To pass inspection.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Carbon monoxide is . . .? ",
+    "class": 8,
+    "answerOptions": [
+      {
+        "answerText": " No longer a concern with vehicles manufactured after 2006.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Only a concern when the vehicle's engine is operated in an enclosed space.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Especially dangerous because it is odourless, colourless, tasteless and difficult to detect.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Something that only affects a small percentage of the driving population.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": " These signs mean?",
+    "class": 8,
+    "answerOptions": [
+      { "answerText": "qsn-img-2", "isCorrect": false },
+      {
+        "answerText": "Warn of obstructions on the road and indicate on which side you should pass.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Hazards or danger ahead – turn right or left.",
+        "isCorrect": true
+      },
+      { "answerText": "Bump or rough road ahead.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " What are the components of total braking distance? ",
+    "class": 8,
+    "answerOptions": [
+      { "answerText": "See-think-do.", "isCorrect": true },
+      { "answerText": "Do-see-think.", "isCorrect": false },
+      { "answerText": "Stop-drop-roll.", "isCorrect": false },
+      { "answerText": "See-brake-stop.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the following distance when towing a trailer exceeding 4,600kg? ",
+    "class": 8,
+    "answerOptions": [
+      { "answerText": "5 seconds.", "isCorrect": true },
+      { "answerText": "2 seconds.", "isCorrect": false },
+      { "answerText": "3 seconds.", "isCorrect": false },
+      { "answerText": "4 seconds.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "When checking the wiring connection between the towed unit and the trailer, what are you looking for? ",
+    "class": 8,
+    "answerOptions": [
+      {
+        "answerText": "That the connectors match and that one is female and the other male.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "That the wire is the correct amperage for your trailer so that the electrical features inside work properly.",
+        "isCorrect": false
+      },
+      { "answerText": "Corrosion.", "isCorrect": true },
+      {
+        "answerText": "That the wire is plumbed through the trailer correctly.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionText": " When correctly attached to your vehicle the fifth wheel is? ",
+    "class": 8,
+    "answerOptions": [
+      { "answerText": "Bolted down behind the rear axle.", "isCorrect": false },
+      { "answerText": "Welded to the frame.", "isCorrect": false },
+      {
+        "answerText": "Fastened to the truck's frame over or in front of the rear axle. ",
+        "isCorrect": true
+      },
+      { "answerText": "Straddling the rear wheels.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": " Which of the following is not a characteristic of anti-lock braking systems (abs) being applied correctly ",
+    "class": 8,
+    "answerOptions": [
+      { "answerText": "Noise.", "isCorrect": false },
+      { "answerText": "Pedal movement or shudder.", "isCorrect": false },
+      { "answerText": "Grinding.", "isCorrect": false },
+      {
+        "answerText": "Hissing sound – like a leaking compressor.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Which of the following should you not do when driving in a roundabout? ",
+    "class": 8,
+    "answerOptions": [
+      { "answerText": "Drive on the truck apron.", "isCorrect": false },
+      { "answerText": "Stay in your lane.", "isCorrect": false },
+      { "answerText": "Signal before exiting.", "isCorrect": false },
+      {
+        "answerText": "Drive beside other large vehicles such as buses and trucks. ",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionText": "Who’s responsibility is it to ensure that traffic is not impeded or forced to back up if the unit must be driven out of your lane in order to negotiate a right-hand turn? ",
+    "class": 8,
+    "answerOptions": [
+      { "answerText": "Traffic cop.", "isCorrect": false },
+      { "answerText": "Oncoming traffic.", "isCorrect": false },
+      { "answerText": "Traffic behind you.", "isCorrect": false },
+      { "answerText": "The driver.", "isCorrect": true }
+    ]
+  }
+]
